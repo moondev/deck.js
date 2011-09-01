@@ -1,3 +1,20 @@
+#presentation outline
+## Drupal Pros
+- easy deployment
+- powerful automated url aliasing
+- custom content types
+- -nested content types
+- views
+- granular user permissions
+- drupal+git = <3
+## Wordpress Cons
+-great blog, clunky cms
+-horrible deployment process
+-underpowered menu system
+-questionable api (the loop, the_content, get_the_content)
+-custom fields are hell clumsy
+-its not drupal
+
 #deck.js
 
 A JavaScript library for building modern HTML presentations. deck.js is flexible enough to let advanced CSS and JavaScript authors craft highly customized decks, but also provides templates and themes for the HTML novice to build a standard slideshow.
